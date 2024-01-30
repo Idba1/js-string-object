@@ -19,6 +19,7 @@ console.log(rev);
 
 
 
+
 let reversed = "";
 reversed = sentence.split("").reverse().join("");
 console.log(reversed);
